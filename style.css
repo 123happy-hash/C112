@@ -1,0 +1,17 @@
+h3{
+    width: 500px !important;
+    font-size: 40px !important;
+}
+label{
+    font-size: 25px !important;
+}
+#WebcamView, #SnapshotView{
+    height: 350px;
+    width: 350px;
+    border: 3px solid gold;
+    margin-top: 10px;
+}
+h5{
+    font-size: 25px !important;
+    color:goldenrod !important;
+}
